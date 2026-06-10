@@ -31,7 +31,7 @@ Full conventions live in `STYLE_GUIDE.md`.
 | **Cast size** | **Three** POV protagonists across the book, but only ever **two alive at once**, always one on each side, enemies from the start. The Allied killer replaces the dead Dane opposite the German. |
 | **The pairing** | **Across enemy lines.** An Allied/Danish player and a Wehrmacht (German) soldier, each only dimly aware the other exists. The most morally complex option, and it sharpens the "rewards humanity, not killing" core. |
 | **The German's job** | A **medic, or Sanitäter (field medical orderly), or field doctor**, a *healer*. His ethical engine: the war forces this life-saver into *necessary killing*, which the system answers wrongly and coldly. (Doctor versus front-line Sanitäter still TBD.) |
-| **The third protagonist** | A **hardened Allied killer** (sniper or commando) who steps in after the Dane dies, the direct mirror and inversion of the German healer. The killer against the healer. |
+| **The third protagonist** | A **hardened Allied killer**, the morally darkest of the three, who steps in after the Dane dies. **Specialisation: sniper.** The direct mirror and inversion of the German healer, the killer against the healer. A sniper's trade is *distance*, which is also the system's name for the loss of humanity, so he begins already hollow and therefore safe. |
 | **The killer is also a player** | Yes. The healer and the killer are **two players on opposite sides**, drawn inevitably toward each other. They may be the only two people alive who can understand each other's curse, and still they are enemies. This is the engine of the convergence mystery. |
 | **The gut-punch** | **One of the two opening POV protagonists actually dies partway through**, a deliberate, rare move. The death is the doorway into the larger mystery. |
 | **Who dies** | **The Dane (the Allied protagonist).** The bold misdirection: the reader is led to believe the Dane is *the* hero (most page-time, classic hero's arc), then he dies, and the **German** turns out to be the true throughline all along. It flips the reader's sympathy onto "the enemy." |
@@ -129,9 +129,18 @@ begin.)*
 - Relationship to the system: a player. Feelings TBD (likely shame, bargaining, dread). His
   first awareness of another player is feeling Aksel's score wink out at the instant of death.
 
-### Protagonist C: Jack Mercer, the hardened Allied killer
-- **Role:** enters after Aksel dies, becomes Jonas's new opposite number.
-- **Side:** British commando and sniper, Normandy and north-west Europe, 1944 onward.
+### Protagonist C: Jack Mercer, the hardened Allied killer (the "villain" of the three)
+- **Role:** enters after Aksel dies, becomes Jonas's new opposite number. The morally darkest of
+  the three protagonists, the one the reader is meant to recoil from before they understand him.
+- **Side:** British, Normandy and north-west Europe, 1944 onward.
+- **Specialisation: sniper.** This is his whole craft and his whole identity. He kills at
+  distance, never close, the target an object in a lens, no eye met, no name known. He is good
+  at it the way Aksel was good at the resistance, the best anyone has seen.
+- **The distance resonance (core to his design):** a sniper's trade *is* distance, and the
+  system's price is named **Distance**, the loss of one's own humanity. So Mercer begins
+  already hollowed out, maximally detached, and that is exactly why the harvest cannot touch
+  him. His arc toward mercy is an arc toward *closing the distance*, becoming human again, and
+  so becoming ripe. The safest man alive, for as long as he stays behind the glass.
 - **Function:** the direct mirror and inversion of the German healer. The killer who must learn
   to spare or to save, and whose growth toward mercy is also his road to the harvest.
 - **Name note:** *Mercer* buries the word *mercy*, the thing that will both save and doom him.

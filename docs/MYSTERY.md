@@ -185,6 +185,11 @@ he was eaten first.
   is exactly why he survives. The moment his arc bends toward sparing and saving, his value
   rises and the harvest turns toward him. To become a better man is to be eaten. His surname
   carries the buried word *mercy* on purpose.
+- **Mercer is a sniper by specialisation, and that choice is load-bearing.** A sniper's craft is
+  literally *distance*, and Distance is the system's name for the hollowing of a person. Mercer
+  is the man who is all distance, behind the glass, and so the harvest cannot reach him. His arc
+  toward mercy is mechanically an arc toward *closing the distance*, lowering Distance, becoming
+  human, becoming ripe. The thing that makes him a monster is the thing that keeps him alive.
 
 ### Still open
 - **The third way** out of the Layer 7 trap. Designed once the middle is real.

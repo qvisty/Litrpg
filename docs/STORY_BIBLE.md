@@ -16,8 +16,10 @@ the author. Keep this file honest — when the story changes, change this first.
 | **System crunch** | Medium — clear stats, skills and levels, but never at the cost of the story |
 | **Tone** | Dark & realistic. The war's horror is taken seriously; power-fantasy is kept on a leash. |
 | **Structure** | Multiple POV protagonists who each discover the system independently and slowly converge |
-| **Cast size** | Start with **two** protagonists |
+| **Cast size** | **Three** POV protagonists across the book, but only ever **two alive at once** — always one on each side, enemies from the start (the Allied killer replaces the dead Dane opposite the German). |
 | **The pairing** | **Across enemy lines** — an Allied/Danish player and a Wehrmacht (German) soldier, each only dimly aware the other exists. The most morally complex option; sharpens the "rewards humanity, not killing" core. |
+| **The German's job** | A **medic / Sanitäter (field medical orderly)** or field doctor — a *healer*. His ethical engine: the war forces this life-saver into *necessary killing*, which the system answers wrongly/coldly. (Doctor vs. front-line Sanitäter still TBD.) |
+| **The third protagonist** | A **hardened Allied killer** (sniper/commando) who steps in after the Dane dies — the direct mirror/inversion of the German healer. The killer vs. the healer. |
 | **The gut-punch** | **One of the two POV protagonists actually dies partway through** — a deliberate, rare move. Their death is the doorway into the larger mystery. |
 | **Who dies** | **The Dane (the Allied protagonist).** The bold misdirection: the reader is led to believe the Dane is *the* hero (most page-time, classic hero's arc) — then he dies, and the **German** turns out to be the true throughline all along. Flips the reader's sympathy onto "the enemy." |
 | **When the death lands** | **Early and unexpected — a shock.** He dies before the reader is ready: abrupt, almost meaningless, the way war actually is. Sets the tone instantly (no one is safe; the system never makes death cheap) and hands the book to the German sooner. |
@@ -66,19 +68,43 @@ These are the next decisions. Nothing downstream gets written until they're sett
 
 ## Protagonists
 
-*(Fill in once the pairing is chosen. Template below.)*
+Three POV protagonists across the book, but only ever **two alive at once** — always one on
+each side, enemies from the start. The Dane opens opposite the German, dies early, and the
+hardened Allied killer steps into the empty chair to become the German's new opposite number.
 
-### Protagonist A — *TBD*
-- **Role in the misdirection:** seems-to-be-the-hero / true-throughline / dies-midway
-- Nationality / side:
-- Front & years:
-- Want (conscious goal):
-- Need (what the story will actually teach them):
-- Relationship to the system: how/when they discover it; how they feel about it
-- Arc:
+> **The thematic spine:** the war is fought between a man whose calling is to **heal** and a
+> man whose trade is to **kill** — and the hidden system rewards *humanity, not killing*. So
+> the healer is punished by the very thing that should reward him (war forces him to kill),
+> and the killer's path to growth may be the hardest thing imaginable for him: to spare, to
+> save. The system is the cruel mirror that makes each man the other's inverse.
 
-### Protagonist B — *TBD*
-- *(same template)*
+### Protagonist A — The Dane *(name TBD)*
+- **Role in the misdirection:** seems-to-be-the-hero → **dies early & unexpectedly**
+- **Side:** Allied (Danish — resistance / in Allied service, specifics TBD)
+- Front & years: TBD
+- Want / Need: TBD
+- Relationship to the system: a player; his early death is the reader's first proof that the
+  score does not keep anyone safe — and possibly the German's first awareness of another player.
+- Arc: cut brutally short — that is the point.
+
+### Protagonist B — The German *(name TBD)* — **true throughline**
+- **Role:** the real protagonist, revealed once the Dane dies
+- **Side:** Wehrmacht
+- **Job:** a **medic / field medical orderly (Sanitäter)** or field doctor — a *healer*. (Exact
+  rank/role TBD: front-line Sanitäter vs. Truppenarzt/doctor.)
+- **Core dilemma:** his whole identity is saving lives, yet the war forces him into *necessary
+  killing*. Each kill wounds him — and the system's response to it is wrong/cold, deepening the
+  horror. The "Distance" cost is doubly cruel on a man made of care: the better he gets, the
+  number he grows to the compassion he's fighting to keep.
+- Want / Need / Arc: TBD
+- Relationship to the system: a player; feelings TBD (likely shame, bargaining, dread).
+
+### Protagonist C — The hardened Allied killer *(name TBD)*
+- **Role:** enters around/after the Dane's death; becomes the German's new opposite number
+- **Side:** Allied (sniper or commando — a man whose **trade is killing**). Nationality/front TBD.
+- **Function:** the direct mirror/inversion of the German healer. Possible arc: the killer who
+  must learn to spare or save. Likely also a system-player (→ the two converge). TBD.
+- Want / Need / Arc: TBD
 
 ---
 

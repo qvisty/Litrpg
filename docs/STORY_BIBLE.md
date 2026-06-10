@@ -24,6 +24,7 @@ the author. Keep this file honest — when the story changes, change this first.
 | **Who dies** | **The Dane (the Allied protagonist).** The bold misdirection: the reader is led to believe the Dane is *the* hero (most page-time, classic hero's arc) — then he dies, and the **German** turns out to be the true throughline all along. Flips the reader's sympathy onto "the enemy." |
 | **When the death lands** | **Early and unexpected — a shock.** He dies before the reader is ready: abrupt, almost meaningless, the way war actually is. Sets the tone instantly (no one is safe; the system never makes death cheap) and hands the book to the German sooner. |
 | **Publishing** | Both: Markdown source in `src/` **and** a generated GitHub Pages site (mdBook) |
+| **Branch / deploy policy** | **Always deploy to `main`** (it is the live trunk). Each session leaves a snapshot **backup branch**; keep only the **three most recent**, prune older. |
 
 ### The core engine of the system (locked in concept)
 

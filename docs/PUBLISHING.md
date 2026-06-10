@@ -29,10 +29,11 @@ to the **`main`** branch (and on manual dispatch). To turn it on, once:
 
 The published URL will be `https://qvisty.github.io/litrpg/` (or your custom domain).
 
-> **Note:** drafting happens on the `claude/litrog-book-github-dpns3l` branch. The deploy
-> targets `main`, so the public site only updates when work is merged there — handy for
-> keeping rough drafts off the live site. If you'd like the draft branch to publish to a
-> preview instead, say so and the workflow can be adjusted.
+> **Branch policy (author's standing rule):** **always deploy to `main`.** Work lands on
+> `main` so the published site is always current. Each work session also leaves behind a
+> snapshot **backup branch**; we keep only the **three most recent** backup branches and prune
+> older ones. So `main` = the live trunk, and the recent feature/backup branches = rollback
+> points.
 
 ## Adding a chapter (checklist)
 

@@ -1,0 +1,9 @@
+# mdBook build output
+/book/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

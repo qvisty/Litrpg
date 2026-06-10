@@ -1,0 +1,25 @@
+[book]
+title = "The Quiet Game"
+description = "A grounded WWII LitRPG — the war as it was, with a secret system only a few can see."
+authors = ["qvisty"]
+language = "en"
+src = "src"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/qvisty/litrpg"
+edit-url-template = "https://github.com/qvisty/litrpg/edit/main/{path}"
+no-section-label = false
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.search]
+enable = true
+limit-results = 30
+use-boolean-and = true
+
+[output.html.print]
+enable = true

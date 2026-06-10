@@ -1,0 +1,23 @@
+# Appendix: The System
+
+A spoiler-light, reader-facing reference to the hidden system as it is *revealed in the
+story* — never ahead of it. This page grows only as much as the characters themselves come
+to understand. The full design (including things the characters never learn) lives in
+[`docs/SYSTEM.md`](https://github.com/qvisty/litrpg/blob/main/docs/SYSTEM.md), outside the book.
+
+## What is known so far
+
+*(Empty until Chapter 1 establishes the first thing a character — and the reader — learns
+about the score.)*
+
+## The Attributes
+
+| Attribute | Reads as |
+|-----------|----------|
+| **Nerve** | Holding steady when everything says run. |
+| **Cunning** | Seeing the angle no one else sees in time to use it. |
+| **Endurance** | What is left when the body should already have quit. |
+| **Influence** | Whether others move because you asked. |
+
+*(Provisional — see the story bible. Numbers and exact wording are finalized as chapters
+are written.)*

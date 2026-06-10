@@ -17,7 +17,10 @@ the author. Keep this file honest — when the story changes, change this first.
 | **Tone** | Dark & realistic. The war's horror is taken seriously; power-fantasy is kept on a leash. |
 | **Structure** | Multiple POV protagonists who each discover the system independently and slowly converge |
 | **Cast size** | Start with **two** protagonists |
+| **The pairing** | **Across enemy lines** — an Allied/Danish player and a Wehrmacht (German) soldier, each only dimly aware the other exists. The most morally complex option; sharpens the "rewards humanity, not killing" core. |
 | **The gut-punch** | **One of the two POV protagonists actually dies partway through** — a deliberate, rare move. Their death is the doorway into the larger mystery. |
+| **Who dies** | **The Dane (the Allied protagonist).** The bold misdirection: the reader is led to believe the Dane is *the* hero (most page-time, classic hero's arc) — then he dies, and the **German** turns out to be the true throughline all along. Flips the reader's sympathy onto "the enemy." |
+| **When the death lands** | **Early and unexpected — a shock.** He dies before the reader is ready: abrupt, almost meaningless, the way war actually is. Sets the tone instantly (no one is safe; the system never makes death cheap) and hands the book to the German sooner. |
 | **Publishing** | Both: Markdown source in `src/` **and** a generated GitHub Pages site (mdBook) |
 
 ### The core engine of the system (locked in concept)
@@ -42,30 +45,22 @@ the same hidden interface, each believing they are alone. This gives us:
 
 These are the next decisions. Nothing downstream gets written until they're settled.
 
-1. **The pairing.** Which two protagonists? Candidates on the table:
-   - **(1) Brothers in the resistance** — two young Danes, 1943; the charismatic one *seems*
-     the hero, gets taken by the Gestapo and executed; the quiet one flees to England.
-   - **(2) The resistance man & the soldier** — a Dane and an Eastern-Front soldier; the
-     heroic-seeming soldier dies at Stalingrad; the Dane carries the thread.
-   - **(3) Across enemy lines** — an Allied/Danish player and a Wehrmacht soldier, each dimly
-     aware of the other; the German — whom we come to love — dies, maybe in sacrifice.
-   - **(4) Master & apprentice** — an older player who half-understands the system + a novice;
-     the master dies, leaving the apprentice the burden and the unanswered questions.
-   - **(5) The man & the courier** — a resistance man and a woman courier/nurse; her death in
-     a raid is what *wakes* something in the system.
-   - *(Author wants more options to choose from — add freely.)*
+*(Resolved — pairing, who dies, and when — moved up to "Locked decisions".)*
 
-2. **Who dies — the obvious "hero" or the underdog?** The obvious hero = most shocking
-   (misdirection: reader thinks they're *the* lead). The underdog = most tragic.
-
-3. **When does the death land?** End of Part One? Midpoint? (Affects pacing of all parts.)
-
-4. **The origin mystery.** *Deliberately deferred — the author has a plot conversation they
+1. **The origin mystery.** *Deliberately deferred — the author has a plot conversation they
    want to have first.* Do NOT lock the system's origin (sci-fi? divine? unknown? ambiguous?)
    until that conversation happens. Build everything else so it stays compatible with any
    answer.
 
-5. **Final title.** "The Quiet Game" is a working title only.
+2. **The two characters' specifics.** Names, ages, exact fronts and the moment each discovers
+   the system. (Flows out of the origin conversation — the Dane needs enough life for his
+   early death to hurt; the German needs room to become the true lead.)
+
+3. **The point of contact.** Since the Dane dies *early*, how do the two ever "touch"? Do they
+   meet once before he dies? Does the German only sense the Dane's score wink out? This is the
+   hinge between Act-structure and the mystery — settle it alongside Q1.
+
+4. **Final title.** "The Quiet Game" is a working title only.
 
 ---
 

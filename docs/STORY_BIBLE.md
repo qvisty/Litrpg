@@ -96,36 +96,53 @@ hardened Allied killer steps into the empty chair to become the German's new opp
 > system is the cruel mirror that makes each man the other's inverse. And both men carry it,
 > which means each may be the only one who could ever understand the other.
 
-### Protagonist A: The Dane *(name TBD)*
-- **Role in the misdirection:** seems-to-be-the-hero, then **dies early and unexpectedly**.
-- **Side:** Allied (Danish, resistance or in Allied service, specifics TBD).
-- Front and years: TBD.
-- Want and Need: TBD.
-- Relationship to the system: a player. His early death is the reader's first proof that the
-  score does not keep anyone safe, and possibly the German's first awareness of another player.
-- Arc: cut brutally short. That is the point.
+*(All names and fronts below are proposals, easy to rename. They are concrete so drafting can
+begin.)*
 
-### Protagonist B: The German *(name TBD)*, the **true throughline**
-- **Role:** the real protagonist, revealed once the Dane dies.
+### Protagonist A: Aksel Holt, the Dane
+- **Role in the misdirection:** seems-to-be-the-hero, then **dies early and unexpectedly**.
+- **Side:** Danish resistance, Copenhagen.
+- **Front and years:** occupied Copenhagen, autumn 1943. The real backdrop is the collapse of
+  the policy of cooperation in August 1943 and the attempted deportation of Danish Jews in
+  October 1943, a moment of genuine moral extremity, perfect ground for the system.
+- Want and Need: TBD, but he is brave, decent, and good at this, the kind of man the reader
+  roots for instantly.
+- Relationship to the system: a player, and unknown to himself the **furthest along of anyone**.
+  His high, fast score reads as triumph. It is ripeness. (See `MYSTERY.md`, Layer 6.)
+- Arc: cut brutally short. That is the point. His death is a **harvest**, planted from Chapter 1.
+
+### Protagonist B: Jonas Keller, the German, the **true throughline**
+- **Role:** the real protagonist, revealed once Aksel dies.
 - **Side:** Wehrmacht.
-- **Job:** a **medic, field medical orderly (Sanitäter), or field doctor**, a *healer*. (Exact
-  rank and role TBD: front-line Sanitäter versus Truppenarzt or doctor.)
+- **Job:** a **Sanitäter (front-line medical orderly)**, a healer.
+- **Front and years:** posted to the garrison in occupied Copenhagen in 1943 (so he and Aksel
+  are enemies in the same city), then transferred to France and the Normandy meat-grinder in
+  1944, where the war forces him to kill and where he meets the Allied killer.
+- **Name note:** *Jonas* carries the Jonah resonance on purpose, the man swallowed whole. Keep
+  it subtle. It is a common German name and never remarked on in the text.
 - **Core dilemma:** his whole identity is saving lives, yet the war forces him into *necessary
   killing*. Each kill wounds him, and the system's response to it is wrong and cold, which
   deepens the horror. The "Distance" cost is doubly cruel on a man made of care. The better he
-  gets, the number he grows to the compassion he is fighting to keep.
+  gets, the number he grows to the compassion he is fighting to keep. He is the perfect
+  specimen, being fattened (Layer 6).
 - Want, Need, Arc: TBD.
-- Relationship to the system: a player. Feelings TBD (likely shame, bargaining, dread).
+- Relationship to the system: a player. Feelings TBD (likely shame, bargaining, dread). His
+  first awareness of another player is feeling Aksel's score wink out at the instant of death.
 
-### Protagonist C: The hardened Allied killer *(name TBD)*
-- **Role:** enters around or after the Dane's death, becomes the German's new opposite number.
-- **Side:** Allied (sniper or commando, a man whose **trade is killing**). Nationality and
-  front TBD.
-- **Function:** the direct mirror and inversion of the German healer. Possible arc: the killer
-  who must learn to spare or to save.
-- **System:** **also a player.** The two converge across enemy lines, two men who share the one
-  secret no one else would believe, and who are still sworn to kill each other.
+### Protagonist C: Jack Mercer, the hardened Allied killer
+- **Role:** enters after Aksel dies, becomes Jonas's new opposite number.
+- **Side:** British commando and sniper, Normandy and north-west Europe, 1944 onward.
+- **Function:** the direct mirror and inversion of the German healer. The killer who must learn
+  to spare or to save, and whose growth toward mercy is also his road to the harvest.
+- **Name note:** *Mercer* buries the word *mercy*, the thing that will both save and doom him.
+- **System:** **also a player.** While he stays a pure instrument of killing he scores almost
+  nothing, which is exactly why he survives. The two converge across enemy lines, two men who
+  share the one secret no one else would believe, and who are still sworn to kill each other.
 - Want, Need, Arc: TBD.
+
+### Recurring: the Steward *(name TBD)*
+The human face that serves It (see `MYSTERY.md`). Appears **early in Copenhagen**, warm and
+helpful, with one detail wrong. We do not know what he is for a long time.
 
 ---
 

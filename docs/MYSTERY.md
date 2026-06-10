@@ -173,16 +173,19 @@ he was eaten first.
 
 ---
 
-## Knobs still open (author input wanted)
+## Knobs (decided and still open)
 
-These do not threaten the architecture above. They tune it.
+### Decided
+- **The deepest nature of It stays forever ambiguous.** We lock WHAT it does (feed and judge)
+  and the dilemma it creates. We never confirm WHAT it ultimately IS. No face, no origin
+  speech, no final explanation. The reader leaves with the mechanic and the dread, never the
+  answer. Every draft must resist the temptation to explain It.
+- **The killer's brutality keeps him safe, and his road to mercy is his road to the harvest.**
+  Locked. Jack Mercer scores almost nothing while he stays a pure instrument of killing, which
+  is exactly why he survives. The moment his arc bends toward sparing and saving, his value
+  rises and the harvest turns toward him. To become a better man is to be eaten. His surname
+  carries the buried word *mercy* on purpose.
 
-- **The deepest nature of It.** We have locked WHAT it does (feed and judge) and the dilemma it
-  creates. We have deliberately NOT locked WHAT it ultimately IS. Options to decide later, or
-  leave forever ambiguous: an inhuman intelligence, a posthuman or future experiment, something
-  mythic or divine, the dead keeping count. The book works with this kept dark. Decide how much
-  is ever confirmed.
+### Still open
 - **The third way** out of the Layer 7 trap. Designed once the middle is real.
-- **Whether the killer is already unconsciously "safe"** because of his brutality, and whether
-  his arc toward mercy is also his arc toward the harvest. (Strong, probably yes.)
 - **The Steward's origin war.** Which earlier conflict made him. Sets the Layer 5 texture.

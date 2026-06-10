@@ -7,7 +7,7 @@
 
 # Part One, The Score Begins
 
-- [Chapter 1, *(to be written)*](./part-1/chapter-01.md)
+- [Chapter One](./part-1/chapter-01.md)
 
 ---
 

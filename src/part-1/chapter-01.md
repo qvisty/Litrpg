@@ -2,7 +2,7 @@
 
 > *This chapter is not yet written.*
 >
-> The story is still in planning — the cast and the opening are being locked with the author
+> The story is still in planning. The cast and the opening are being locked with the author
 > before drafting begins. When Chapter 1 is written, it goes here, and `src/SUMMARY.md` grows
 > a new line for each chapter that follows.
 

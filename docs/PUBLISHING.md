@@ -1,6 +1,6 @@
 # Publishing
 
-How *The Quiet Game* is built and put online. The book is plain Markdown in `src/`;
+How *The Quiet Game* is built and put online. The book is plain Markdown in `src/`, and
 [mdBook](https://rust-lang.github.io/mdBook/) turns it into a static website that GitHub
 Pages serves.
 
@@ -16,7 +16,7 @@ mdbook serve --open         # live preview at http://localhost:3000, auto-reload
 mdbook build                # writes the static site to ./book
 ```
 
-`./book` is build output and is git-ignored — never commit it.
+`./book` is build output and is git-ignored, never commit it.
 
 ## Automatic deploy to GitHub Pages
 
@@ -31,7 +31,7 @@ The published URL will be `https://qvisty.github.io/litrpg/` (or your custom dom
 
 > **Branch policy (author's standing rule):** **always deploy to `main`.** Work lands on
 > `main` so the published site is always current. Each work session also leaves behind a
-> snapshot **backup branch**; we keep only the **three most recent** backup branches and prune
+> snapshot **backup branch**. We keep only the **three most recent** backup branches and prune
 > older ones. So `main` = the live trunk, and the recent feature/backup branches = rollback
 > points.
 

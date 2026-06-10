@@ -1,9 +1,9 @@
 # The Quiet Game
 
-*A grounded WWII LitRPG — working title.*
+*A grounded WWII LitRPG. Working title.*
 
 A war novel with a secret. No magic, no monsters. The Second World War unfolds exactly
-as it did — except a handful of people, scattered across the fronts, each discover a
+as it did, except that a handful of people, scattered across the fronts, each discover a
 hidden system that quietly measures and rewards real human qualities: nerve, cunning,
 endurance, the choice to save someone when running would be easier. Each believes they
 are the only one. None of them know who is keeping score, or why.
@@ -21,7 +21,7 @@ Once GitHub Pages is enabled, the latest version is published automatically. See
 
 | Path | What it holds |
 |------|---------------|
-| `src/` | The book itself — one Markdown file per chapter |
+| `src/` | The book itself, one Markdown file per chapter |
 | `src/SUMMARY.md` | The table of contents (mdBook reads this to order chapters) |
 | `book.toml` | mdBook configuration (title, theme, build options) |
 | `docs/STORY_BIBLE.md` | The master plan: premise, characters, the system, tone, continuity |
@@ -39,7 +39,7 @@ at the top of `docs/STORY_BIBLE.md`.
 ## Build locally
 
 ```bash
-# Install mdBook (requires Rust toolchain) — or download a release binary
+# Install mdBook (requires Rust toolchain), or download a release binary
 cargo install mdbook
 
 # Live-preview while writing (auto-reloads in the browser)

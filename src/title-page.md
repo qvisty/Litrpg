@@ -1,4 +1,6 @@
-<div style="text-align:center; margin-top:4rem;">
+<div style="text-align:center">
+
+<br><br>
 
 # THE QUIET GAME
 
@@ -11,6 +13,6 @@
 
 <br><br>
 
-— working title —
+*(working title)*
 
 </div>

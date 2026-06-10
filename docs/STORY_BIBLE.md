@@ -62,10 +62,12 @@ the same hidden interface, each believing they are alone. This gives us:
 
 These are the next decisions. Nothing downstream gets written until they are settled.
 
-1. **The origin mystery.** *Deliberately deferred. The author has a plot conversation they
-   want to have first.* Do NOT lock the system's origin (sci-fi, divine, unknown, ambiguous)
-   until that conversation happens. Build everything else so it stays compatible with any
-   answer.
+1. **The origin mystery.** **Architecture now locked.** The full layered truth, the reveal
+   ladder, and the Part One seed map live in `MYSTERY.md` (author-only, full spoilers). What
+   remains open there is tuning, not structure: the deepest nature of *It* (kept dark on
+   purpose), the "third way" out of the final trap, and a few texture choices. The one thing
+   every chapter must respect from day one: **the system feeds on humanity, and the Dane's
+   early death is a harvest, planted to pay off at the floor of the book.**
 
 2. **The three characters' specifics.** Names, ages, exact fronts, and the moment each
    discovers the system. The Dane needs enough life for his early death to hurt. The German

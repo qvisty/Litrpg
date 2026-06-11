@@ -6,8 +6,8 @@ language = "en"
 src = "src"
 
 [output.html]
-default-theme = "ayu"
-preferred-dark-theme = "ayu"
+default-theme = "rust"
+preferred-dark-theme = "rust"
 git-repository-url = "https://github.com/qvisty/litrpg"
 edit-url-template = "https://github.com/qvisty/litrpg/edit/main/{path}"
 no-section-label = false

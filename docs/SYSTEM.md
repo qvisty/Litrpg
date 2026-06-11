@@ -48,15 +48,63 @@ right to know (see `src/appendix-system.md` for the spoiler-safe, in-story versi
 
 ## Attributes
 
+Five human attributes, all earned by what a person does and is. **Luck is not among them.** It
+is a separate thing and works differently (see "Luck, and the throw").
+
 | Attribute | What it governs | How it reads on the page |
 |-----------|-----------------|--------------------------|
 | **Nerve** | Fear control under fire | Hands that do not shake when they should |
 | **Cunning** | Reading situations, traps, deception | Seeing the angle in time to use it |
 | **Endurance** | Physical and mental stamina | Still standing when the body should have quit |
 | **Influence** | Leadership, persuasion, presence | Others move because you asked |
+| **Insight** | Perception, intuition, the unseen | Knowing a thing he was never told. Later, sensing the system and other players. |
 
-*(Open: do we want a fifth, for example **Insight** or **Luck**? Decide when the first system
-reveal is written.)*
+## Luck, and the throw
+
+Luck is the odd one out. It is not a human quality and it cannot be earned by courage or
+practice the way the five attributes can. It is the **system's favour**, the weight it lays on
+the dice when a player's fate hangs on chance. The ledger does not even call it luck. It calls
+it **favour**, and that word is the truth told in plain sight, because it is not random. (The
+players will think of it as luck. They are wrong. See `MYSTERY.md`: favour tracks how much the
+system wants you alive, which is to say your value, which is to say your ripeness. The luckiest
+are the most doomed, because luck is only the predator guarding its investment until harvest.)
+
+### The throw
+
+At a true crossroads, a choice or an act whose outcome is genuinely uncertain and will bend the
+future, the system resolves it with a hidden roll on a twenty. This is the d20 the author loves
+from the table, the moment the Dungeon Master calls for a roll and the whole game holds its
+breath. War is the perfect home for it, because survival in war really is a throw.
+
+- **The throw of 1, the fumble.** Catastrophe, far worse than the moment deserved. The world
+  turns its back. A jammed weapon, a wrong street, a friend who chooses that second to cough.
+- **The throw of 20, the triumph.** Success beyond what should be possible. The grenade that
+  does not go off, the sentry who looks the other way, the shot no one could have made.
+- **The middle.** Ordinary success or failure, scaled to the number.
+
+**Luck bends the throw.** High favour lets the system quietly reroll a disaster, add its thumb
+to the scale, turn a near miss into a hit. Drained favour removes the safety net and lets the
+dice fall true, which for most people most of the time is bad. A player with high favour walks
+out of things no one walks out of, and never knows he was being kept.
+
+### How the throw appears on the page
+
+It must feel like fate, not like a board game, so its rendering evolves with the interface
+(below, "how it evolves"):
+
+- **Early, felt not seen.** At the threshold the world goes provisional, a held breath, time
+  thick as honey, and then it breaks one way with the awful suddenness of a dropped die. No
+  number. The reader feels the throw without being shown it.
+- **Later, half seen.** As the interface matures, the player begins to sense the throw as a
+  thing happening to him, a cold poised instant, and afterwards a notation he cannot unsee.
+- **Late, named.** Once the system speaks plainly, the throw shows its face, a stark figure on a
+  twenty, and the cold words for the two extremes. We keep those two words rare and heavy, so a
+  1 and a 20 stay as memorable on the page as they were at the table.
+
+**Planned debut:** the first throw the reader ever feels should be the night the Dane dies. For
+two years his favour has carried him through the impossible. That night it is simply not there,
+the dice come up against him for the first time, and only much later does the reader understand
+that the system did not fail to save him. It chose to stop. The throw was the harvest.
 
 ## Skills
 
@@ -139,6 +187,34 @@ So it improves the narrative instead of interrupting it:
   reader rides his relationship with the thing, which is half the genre's pleasure.
 - **It acts unbidden.** Sometimes it speaks when no one asked, and that is when it is most
   frightening and most active in the plot.
+
+## The character sheet, and going multimodal
+
+Because the book is published as a website (mdBook on GitHub Pages), the sheet is not trapped in
+text. Its **medium** can evolve in step with its content, and the reader literally watches the
+interface grow more capable. This is a thing a paper novel cannot do, and we lean into it.
+
+The sheet's *form* climbs a ladder that mirrors the in-fiction interface (see "the interface,
+and how it evolves") and the bars-to-numbers progression:
+
+- **Mode 0, plain text.** A monospace block, words only, no bars, no numbers. The crudest form.
+  Chapter One sits here on purpose. It looks like something half-caught.
+- **Mode 1, styled ledger.** Real HTML and CSS. A cold "ledger" card with proper bars, ruled
+  lines, the look of a document kept by an institution that does not love you. (Scaffolded in
+  `css/ledger.css`, wired through `book.toml`.)
+- **Mode 2, numbers and depth.** Figures appear (Nerve 7, Distance 4), more lines, favour shown
+  as a die. The sheet is now legible and the reader can do the arithmetic of dread.
+- **Mode 3 and beyond, living.** SVG and light animation at key beats, a bar filling, a die
+  settling, the throw resolving on screen. Possibly imagery or sound on the web. Reserved for
+  the heaviest moments so it never becomes noise.
+
+Rules so this enriches and never breaks:
+- **Graceful fallback.** Every styled sheet degrades to readable text for print, plain readers,
+  and screen readers. Always include a text equivalent. The story must survive with no CSS at
+  all.
+- **Form follows the fiction.** A sheet's mode never runs ahead of where the interface has
+  reached in the story. Mode rises when the interface matures, not before.
+- **Restraint.** Animation and sound are rare, earned punctuation, not decoration.
 
 ## What players can learn about each other
 

@@ -102,6 +102,22 @@ book. Plant the seed for each rung before the rung above it is even revealed.
 
 ---
 
+## Favour, the kindest lie
+
+Luck is the system's deepest disguise. The players will read it as chance, the fortune that
+carries some men through a war that kills better men around them. The ledger names it **favour**,
+and favour is the truth: it is not random. **Favour is how badly the system wants you alive,
+which is your value, which is your ripeness.** It guards its best specimens through the
+impossible, not out of love but the way a farmer keeps a prize animal off the road. So the
+luckiest player in any room is the closest to harvest. The careful reader should be able to feel
+the wrongness early, because why would a cold accountant trouble to keep anyone *lucky*.
+
+This is also why the throw (see `SYSTEM.md`) debuts on the night the Dane dies. His favour has
+carried him for two years. That night it is simply withheld, the dice fall true for the first
+time, and the truth, understood only much later, is that the system did not fail to save him. It
+decided he was ready, and stopped guarding him. The harvest is a throw the house declines to win
+for you.
+
 ## The entities and factions
 
 ### It (the system, the keeper)
@@ -170,6 +186,11 @@ he was eaten first.
    easily mistaken for a metaphor.
 8. **The factions' shadow,** a rumour, a confiscated document, a unit that takes an interest in
    men who survive what they should not.
+9. **Favour, the wrong word.** The first sheet keeps a line called *favour*, set apart, and no
+   one explains why a cold ledger would grant such a thing. It reads as a curiosity now and as a
+   noose later. (Chapter One already plants it: "favour: with him.")
+10. **A survival that is too clean,** an early moment where the Dane lives through something he
+    should not have, so that when his favour is later withheld the contrast lands.
 
 ---
 

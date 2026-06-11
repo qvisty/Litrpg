@@ -11,6 +11,7 @@ preferred-dark-theme = "ayu"
 git-repository-url = "https://github.com/qvisty/litrpg"
 edit-url-template = "https://github.com/qvisty/litrpg/edit/main/{path}"
 no-section-label = false
+additional-css = ["css/ledger.css"]
 
 [output.html.fold]
 enable = true

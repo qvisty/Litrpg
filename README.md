@@ -24,6 +24,7 @@ Once GitHub Pages is enabled, the latest version is published automatically. See
 | `src/` | The book itself, one Markdown file per chapter |
 | `src/SUMMARY.md` | The table of contents (mdBook reads this to order chapters) |
 | `book.toml` | mdBook configuration (title, theme, build options) |
+| `css/` | Custom styles, including `ledger.css` for the multimodal character sheet |
 | `docs/STORY_BIBLE.md` | The master plan: premise, characters, the system, tone, continuity |
 | `docs/STYLE_GUIDE.md` | Prose, tense, POV and formatting conventions for consistency |
 | `docs/SYSTEM.md` | The rules of the hidden game system (stats, skills, costs) |

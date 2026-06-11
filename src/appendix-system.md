@@ -18,6 +18,13 @@ the score.)*
 | **Cunning** | Seeing the angle no one else sees in time to use it. |
 | **Endurance** | What is left when the body should already have quit. |
 | **Influence** | Whether others move because you asked. |
+| **Insight** | Knowing a thing you were never told. |
 
-*(Provisional. See the story bible. Numbers and exact wording are finalized as chapters are
-written.)*
+## Favour
+
+The ledger keeps one more line, set apart from the rest, and it does not call it luck. It calls
+it **favour**. What it is, and why a cold accountant should care to grant it, the assessed do not
+yet understand.
+
+*(Provisional. See the story bible. This page grows only as much as the characters come to
+understand. Numbers and exact wording are finalized as chapters are written.)*

@@ -1,0 +1,93 @@
+/*
+ * The Quiet Game, ledger styles.
+ *
+ * The visual language of the system's character sheet on the web.
+ * Cold, administrative, the look of a document kept by something that does
+ * not love you. Used by the multimodal sheet (see docs/SYSTEM.md,
+ * "The character sheet, and going multimodal").
+ *
+ * Chapter One stays Mode 0 (a plain monospace code block). These styles are
+ * the Mode 1 ("styled ledger") foundation, applied from a <div class="ledger">
+ * once the in-fiction interface has matured enough to warrant it. Everything
+ * here must degrade to readable text if the CSS never loads.
+ */
+
+.ledger {
+  font-family: "SFMono-Regular", "Consolas", "Liberation Mono", monospace;
+  border: 1px solid currentColor;
+  border-radius: 2px;
+  padding: 1rem 1.25rem;
+  margin: 2rem 0;
+  max-width: 32rem;
+  letter-spacing: 0.02em;
+  opacity: 0.92;
+}
+
+.ledger__head {
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 0.8rem;
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+/* One attribute line: label, a bar, an optional word. */
+.ledger__row {
+  display: grid;
+  grid-template-columns: 7rem 1fr auto;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.15rem 0;
+}
+
+.ledger__label {
+  text-transform: lowercase;
+  letter-spacing: 0.06em;
+}
+
+/* Mode 1 bar. Fill is set inline per character, e.g. style="--fill: 80%". */
+.ledger__bar {
+  position: relative;
+  height: 0.55rem;
+  border: 1px solid currentColor;
+}
+
+.ledger__bar::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  width: var(--fill, 0%);
+  background: currentColor;
+  opacity: 0.85;
+}
+
+.ledger__note {
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+
+/* Favour (Luck) is set apart, because it is not a human attribute. */
+.ledger__favour {
+  margin-top: 0.75rem;
+  padding-top: 0.6rem;
+  border-top: 1px dashed currentColor;
+  font-size: 0.85rem;
+  opacity: 0.85;
+}
+
+.ledger__standing {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+}
+
+/* The throw, reserved for the heaviest beats. Rare and heavy on purpose. */
+.throw {
+  text-align: center;
+  font-family: "SFMono-Regular", "Consolas", "Liberation Mono", monospace;
+  letter-spacing: 0.3em;
+  margin: 1.5rem 0;
+}
+
+.throw--fumble { font-weight: 700; }
+.throw--triumph { font-weight: 700; }

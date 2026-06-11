@@ -104,6 +104,7 @@ ASSESSED:  HOLT, AKSEL
     cunning      sharp
     endurance    deep
     influence    quiet, and felt
+    insight      open
 
     recognised in him:
         demolitions
@@ -113,4 +114,6 @@ ASSESSED:  HOLT, AKSEL
 
     standing among the assessed:  rare
     retained
+
+    favour:  with him
 ```

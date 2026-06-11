@@ -1,5 +1,6 @@
 # Summary
 
+[Contents (start here)](./start-here.md)
 [Title Page](./title-page.md)
 [A Note Before You Begin](./foreword.md)
 

@@ -27,14 +27,28 @@ These two rules are absolute. A draft that contains either mark is not finished.
 
 ## Rendering the system on the page
 - The system is **diegetic and sparse.** It appears in moments of stakes, not constantly.
-- Present system text as a blockquote so it reads as an intrusion into the prose:
+- **The players know they have it.** Show them reading their stats, reflecting on which are
+  growing, theorising, experimenting, taking pride, and noticing when a new function appears.
+  Their evolving relationship with the interface is part of the story, not background.
+- **Two channels.** The system shows up *woven into scenes* and as a *short end-of-chapter
+  sheet*. Use both. Never only the chapter-end sheet.
+  - **In-scene:** a line or two, set off as a blockquote, that bends a decision or twists the
+    tension, then the prose moves on. It may speak unbidden.
 
-  > **NERVE** holds. *(+1)*
-  > A thing you did not ask for has decided that mattered.
+    > **NERVE** holds. *(+1)*
+    > A thing you did not ask for has decided that mattered.
 
+  - **End-of-chapter sheet:** the ledger's own record, in the system's cold administrative
+    voice. **One sheet per POV character, at the end of their chapter,** so a flat sheet
+    (Mercer) can be read against a climbing one (Jonas). Keep it lean. Every number must mean
+    something new since last time. The vocabulary darkens as the book descends the mystery
+    ladder (`docs/MYSTERY.md`), from innocuous early to abattoir-cold late.
+- **It is basic at first and gains functionality.** Early sheets are crude and short. New
+  readouts, skills, notifications, and choices appear over the book (`docs/SYSTEM.md`, "The
+  interface, and how it evolves"), and the character remarks on each as new.
 - Cold, administrative, slightly inhuman wording. Never chirpy gamer-speak.
-- Numbers appear only when they sharpen the moment. No stat-block dumps mid-scene. If a full
-  status is shown, keep it short and put it at a natural pause.
+- **Load-bearing only.** Numbers appear when they sharpen the moment, the choice, or the dread.
+  No stat-block dumps that stall the scene. If a readout is decorative, cut it.
 
 ## Formatting (mdBook / Markdown)
 - One chapter per file under `src/part-N/chapter-NN.md`. Zero-pad numbers (`chapter-03.md`).

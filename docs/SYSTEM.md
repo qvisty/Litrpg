@@ -14,15 +14,34 @@ right to know (see `src/appendix-system.md` for the spoiler-safe, in-story versi
 
 ## Design pillars
 
-1. **Hidden.** Only a chosen few perceive it. To everyone else, a "player" is just an unusually
-   capable, unusually haunted person.
-2. **Rewards humanity, not slaughter.** Progress comes from courage, cunning, endurance,
+1. **Hidden from the world, known to the player.** Only a chosen few perceive it, and to
+   everyone else a "player" is just an unusually capable, unusually haunted person. But the
+   players themselves **know they have it.** They can see their stats, read their own sheet,
+   feel it change. This is deliberate. The genre pleasure is a character who engages with the
+   mechanics, and we want that pleasure.
+2. **The players think about their stats.** They reflect on which attributes are growing, test
+   themselves, theorise, take pride, worry, and notice when something is new. Their relationship
+   to the interface is an active, evolving part of their inner life, not background flavour.
+   (The deep *truth* of what the system is stays hidden. The *surface* mechanics are theirs to
+   play with. The gap between the two is the tragedy.)
+3. **It starts basic and grows.** Early on the interface is crude: a few attributes, surfacing
+   on their own, barely legible. Over the book it gains functions (named skills, a summonable
+   sheet, notifications, the sensing of other players, offers and choices). Each new function is
+   a small reveal the character reacts to, and a step down the mystery ladder. See "The
+   interface, and how it evolves."
+4. **The system is an active agent, not a passive tool.** It does not only answer when checked.
+   It intrudes, assesses, warns, withholds, and eventually bargains, of its own accord. It
+   shapes decisions and therefore the plot. It is a character.
+5. **It improves the story, it never blocks it.** The mechanics must earn their place by
+   sharpening a scene, a choice, or the dread. They appear woven into the action and at chapter
+   ends, never as a dump that stalls the narrative. If a stat readout is not making the moment
+   better, it is cut.
+6. **Rewards humanity, not slaughter.** Progress comes from courage, cunning, endurance,
    leadership, and mercy, all choices, not kill-counts. Killing earns little or nothing.
-3. **It costs something.** The more a player leans on the system, the more detached from their
-   own humanity they feel. Power and numbness rise together.
-4. **Medium crunch.** Stats, skills and levels are real and legible, but the prose leads. Numbers
-   appear when they sharpen a moment, never to fill space.
-5. **Grounded.** No fireballs. Bonuses read as being *slightly* faster, steadier, luckier, or
+7. **It costs something.** The more a player leans on the system, the more detached from their
+   own humanity they feel. Power and numbness rise together. The players can *see* this cost
+   (Distance) climbing, and can do nothing to stop it, which is its own slow horror.
+8. **Grounded.** No fireballs. Bonuses read as being *slightly* faster, steadier, luckier, or
    more persuasive than a human should be. Deniable, uncanny, never cinematic magic.
 
 ---
@@ -64,11 +83,55 @@ system refuses to reward, so his only road upward may be the one act that terrif
 spare a life. Watch how the system answers each. Their scores should feel like a verdict on
 who they are becoming.
 
-## The interface
+## The interface, and how it evolves
 
-How does a player *see* it? (Provisional, lock in Chapter 1.) Candidate: a faint overlay only
-they perceive, surfacing in moments of stakes, not a constant HUD. Terse, cold, administrative
-wording, like a ledger kept by something that does not love you.
+A player perceives the system as a faint overlay only they can see, terse, cold, and
+administrative, like a ledger kept by something that does not love them. It is never a constant
+HUD. It surfaces in moments of stakes, and later, when the player learns to, on request.
+
+The key principle the author wants: **it starts basic and gains functionality over the book,**
+and the player's own understanding of their sheet grows with it. Each new capability is both a
+genre beat (the reader gets a new toy) and a rung on the mystery ladder (the new capability
+hints at what the thing wants). Rough progression, to be tuned in the drafting:
+
+- **Stage 0, raw (where Chapter 1 sits).** Involuntary. A pressure, then a few words at the edge
+  of sight, naming a handful of attributes. The player cannot summon it yet. He reads what it
+  shows him and reflects, but he is mostly a passenger. Basic on purpose.
+- **Stage 1, legible.** The attributes resolve into named, trackable lines (NERVE, CUNNING,
+  ENDURANCE, INFLUENCE). The player can hold them in mind, compare against last time, notice
+  growth. DISTANCE appears as a new line he did not ask for and does not understand.
+- **Stage 2, summonable and skilled.** He learns he can *look* on purpose. SKILLS get named as
+  the system recognises a competence. He starts to experiment, doing things to push a number,
+  and the book lets the reader enjoy that.
+- **Stage 3, it speaks.** Notifications become predictive and pointed. It warns, assesses, rates
+  a choice before he makes it. It begins to feel like it has intent. He tests its limits and
+  argues with it.
+- **Stage 4, others.** A new readout for the nearness of other players (tied to Layer 2). The
+  first time it fires is the wink-out of a dying stranger.
+- **Stage 5, offers.** It begins to present choices, allocations, or bargains, at a price. This
+  is where the Steward's world and the harvest start to show through the toy.
+- **Stage 6+, the ledger.** Late, the wording drops its disguise. Inventory and abattoir
+  language, COMPLETION, YIELD. The toy was a record of livestock all along.
+
+Players also develop **private vocabulary and theory.** They name the stats themselves before
+the system does, argue about what raises Distance, and trade folk rules when two of them meet.
+This is realistic, it is fun, and it lets characters be wrong in ways that foreshadow the truth.
+
+## How the system lives in the prose
+
+So it improves the narrative instead of interrupting it:
+
+- **Two channels, not one.** It appears *woven into scenes* (a reading mid-action that bends a
+  decision, a notification that lands like a slap) **and** as a short **end-of-chapter sheet**
+  (the ledger's own record, see `STYLE_GUIDE.md`). Never only one of the two.
+- **Always load-bearing.** A mid-scene readout must change something: a choice, the tension, the
+  meaning. If it is decorative, cut it.
+- **Short in motion.** During action, the system speaks in a line or two, set off as a
+  blockquote, then the prose moves on. Full sheets wait for a pause.
+- **The character reacts.** Show him thinking about it, doubting it, using it, resenting it. The
+  reader rides his relationship with the thing, which is half the genre's pleasure.
+- **It acts unbidden.** Sometimes it speaks when no one asked, and that is when it is most
+  frightening and most active in the plot.
 
 ## What players can learn about each other
 

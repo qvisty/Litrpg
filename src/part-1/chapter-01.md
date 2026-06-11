@@ -30,14 +30,23 @@ edge of his sight, where no one else could read them, where nothing was written.
 > NERVE held under observation.
 > ASSESSED. Retained.
 
-He had stopped asking what it meant. In the beginning he had thought he was going mad, and had
-gone to confession over it, and the old priest had told him that God speaks to soldiers in the
-language they can bear, which was a kind answer and a useless one. Then in the spring of the first
-year the letters had told him a thing he could not have known, that the man he was about to trust
-with the Helsingør crossing had already sold three others to the Gestapo, and Aksel had walked
-away from the meeting on the strength of nothing but pale letters, and four nights later they took
-the man who went in his place. After that he stopped calling it madness. He did not know what to
-call it instead. He called it nothing. He used it.
+He had long ago given up asking *what* it was. That question had no floor to stand on. In the
+beginning he had thought himself mad and gone to confession over it, and the old priest had said
+that God speaks to soldiers in the language they can bear, which was kind and useless. So Aksel
+had stopped chasing what it was and set himself instead to learn what it *did*, the way you learn
+a rifle you did not choose. The proof had come in the spring of the first year, when the letters
+told him a thing he could not have known, that the man he was about to trust with the Helsingør
+crossing had already sold three others to the Gestapo. He had walked away on the strength of pale
+words and nothing else, and four nights later they took the man who went in his place. After that
+he did not call it madness.
+
+He gave the readings names instead. His own at first, then the ones the letters themselves seemed
+to settle on, and he kept a count of them in his head the way other men kept a rosary. The
+steadiness. The quickness. The wind that warned him. Each had been rising, slow as a tide, across
+two years, and he had taken to watching them climb with a quiet private pride he would have been
+ashamed to say aloud. He could not call the letters up when he wanted them, not yet. They came
+when they came. But he could read them now, and a man who could read the sky did not have to own
+the weather to use it.
 
 The boy soldier turned off toward the tram. Aksel went the other way, into the dark, and let his
 breathing out slow.
@@ -56,7 +65,11 @@ told himself a man got used to things. The letters surfaced again, briefly, as h
 into the lamplight to look at them, as though the looking itself were an act it wished to mark.
 
 > ENDURANCE recognised.
-> Distance: rising.
+> DISTANCE rising.
+
+DISTANCE was the newest of the readings, a word that had surfaced perhaps a month past and then
+refused to leave, and alone among them it climbed without giving him any pride at all. The others
+felt like growing into himself. This one felt like a leak.
 
 "What does that mean," he said, before he could stop himself.
 
@@ -108,3 +121,18 @@ done very well, you know. They will be pleased with you."
 The cold came up off the harbour and found the gap in the door, and for the first time in a long
 time, standing in the safe yellow lamplight of a shop he had bled to protect, Aksel Holt felt his
 hands begin, very slightly, to shake.
+
+---
+
+```
+ASSESSED:  HOLT, AKSEL
+
+    nerve       steady
+    cunning     sharp
+    endurance   deep
+    influence   felt
+    distance    rising
+
+    standing among the assessed:  rare
+    retained
+```

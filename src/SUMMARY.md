@@ -19,6 +19,7 @@
 - [The Mystery, The Truth (heavy spoilers)](./design/mystery.md)
 - [Warcraft, the Technical Layer](./design/warcraft.md)
 - [Style Guide](./design/style-guide.md)
+- [Notes and Easter Eggs](./design/notes.md)
 - [Publishing and Workflow](./design/publishing.md)
 
 # Editorial (working notes, to be deleted later)

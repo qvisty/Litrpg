@@ -24,7 +24,7 @@ without moving, because moving was how you got seen.
 > seen" instantly tells us he is a hunted professional without a word of exposition. We are in
 > his expertise from sentence one. No system, no magic, just a competent frightened man.
 
-Across Sankt Annæ Plads the German staff car had been idling for eleven minutes. He knew it was
+Across Sankt Anne Square the German staff car had been idling for eleven minutes. He knew it was
 eleven because he had counted, the way Margit had taught him in the first month, one thousand and
 one, one thousand and two, a count to keep the fear from climbing into the hands. Fear in the
 hands was how a man dropped a parcel, or fumbled a door, or fired when he should have walked.
@@ -60,7 +60,7 @@ not yet decided to hate him properly.
 > tight inside him. Short beats like this are the chapter's pulse between the longer reflective
 > passages.
 
-He came off the square and into the mouth of Kvæsthusgade with the boy soldier nine steps behind
+He came off the square and into the mouth of Toldbod Street with the boy soldier nine steps behind
 him and closing, and he did not hurry, because hurrying was a kind of confession. He let his
 shoulders go heavy, a tired man going home, and listened to the boots on the cobbles behind him.
 Two years of this had taught him to hear the difference between a man who was following and a man
@@ -78,7 +78,7 @@ not look back.
 > phrase "two years" is also a planted clock. It is exactly how long the ledger will turn out to
 > have been counting him.
 
-He made the drop in the cellar of the bicycle shop on Borgergade, where Holger waited with the
+He made the drop in the cellar of the bicycle shop on Borger Street, where Holger waited with the
 wireless and a face like a closed door.
 
 "You are early," Holger said, which from Holger was warmth.
@@ -107,11 +107,11 @@ nights he believed it.
 > for the price of a clause.
 
 Holger uncapped the wireless and began the slow business of the valves warming. "Two more
-families went over from Dragør last night," he said, not looking up. "The doctor and his people.
-A herring boat took them. They are in Malmö by now, eating someone else's bread."
+families went over from Dragor last night," he said, not looking up. "The doctor and his people.
+A herring boat took them. They are in Malmo by now, eating someone else's bread."
 
 "Good," Aksel said, and meant it more than he had meant anything in weeks. He had carried an old
-woman down to the water at Dragør himself, eight nights ago, her whole life in a pillowcase, her
+woman down to the water at Dragor himself, eight nights ago, her whole life in a pillowcase, her
 hand cold as a fish in his, and had stood in the shallows with the sea filling his boots until
 the boat was only a darker piece of the dark. He did not tell Holger that part. You did not say
 the parts that mattered, not even in a cellar, not even to a man who would die before he gave you

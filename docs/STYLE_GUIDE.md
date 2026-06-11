@@ -63,6 +63,24 @@ These two rules are absolute. A draft that contains either mark is not finished.
 - Keep Danish, German and Russian phrases italicized. Translate or gloss them in line when the
   meaning matters to the reader.
 
+## Place names (anglicise for the reader)
+The story is set in real places, but the prose serves an English reader first and must never
+advertise the author's nationality. So:
+- **Translate the generic part to English.** gade becomes Street, plads becomes Square, vej
+  becomes Road, havn becomes Harbour, torv becomes Square or Market, allé becomes Avenue.
+  Examples used so far: Sankt Anne Square, Toldbod Street, Borger Street.
+- **Avoid special characters** in any proper noun (no æ, ø, å, ö, ü). Drop or respell them so
+  the word reads cleanly, for example Dragor (not Dragør) and Malmo (not Malmö). If a name only
+  works with a special character, choose a different name.
+- **Keep a light Northern European flavour** in the proper part (Sankt, Toldbod, Borger), so it
+  stays grounded and a Danish reader still feels it is loyal to the place, without it ever
+  tripping an English reader.
+- **Use established English exonyms** where they exist (Copenhagen, not København. Sweden, not
+  Sverige).
+- The setting remains Denmark and the real history stands. This is about orthography and the
+  reading ear, not about relocating the story. It could have been any occupied country, and it
+  should read that smoothly.
+
 ## Naming and consistency
 - Lock each character's name, rank and spelling in the story bible the first time they appear.
 - British versus American English: pick one per the book's language setting (English). Default

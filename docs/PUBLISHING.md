@@ -27,7 +27,15 @@ to the **`main`** branch (and on manual dispatch). To turn it on, once:
 2. In **Settings → Pages**, set **Source = GitHub Actions**.
 3. Merge work into `main` (or run the workflow manually from the **Actions** tab).
 
-The published URL will be `https://qvisty.github.io/litrpg/` (or your custom domain).
+The published URL will be `https://qvisty.github.io/Litrpg/` (or your custom domain).
+
+> **Troubleshooting, the most likely failure.** If the live site shows a plain white page with
+> no menu, or chapters return 404, the Pages **Source** has been set to "Deploy from a branch"
+> instead of "GitHub Actions". In that mode GitHub serves a Jekyll render of the repo root (the
+> README) rather than the mdBook this workflow builds. Fix it at
+> <https://github.com/qvisty/Litrpg/settings/pages>, set **Source = GitHub Actions**, then wait
+> about a minute. A stale white page can also be a cached copy, bust it with a fresh private tab
+> or a different network. This caught us once and cost real time.
 
 > **Branch policy (author's standing rule):** **always deploy to `main`.** Work lands on
 > `main` so the published site is always current. Each work session also leaves behind a

@@ -2,6 +2,11 @@
 
 *A grounded WWII LitRPG. Working title.*
 
+### 📖 Read it live: <https://qvisty.github.io/Litrpg/>
+
+The published site has a left sidebar menu (table of contents), full-text search, and
+prev/next navigation. It updates automatically on every push to `main`.
+
 A war novel with a secret. No magic, no monsters. The Second World War unfolds exactly
 as it did, except that a handful of people, scattered across the fronts, each discover a
 hidden system that quietly measures and rewards real human qualities: nerve, cunning,
@@ -14,7 +19,9 @@ and the **published site** (a clean, searchable reading experience via
 
 ## Read it
 
-Once GitHub Pages is enabled, the latest version is published automatically. See
+The book is live at <https://qvisty.github.io/Litrpg/>, published automatically on every push
+to `main`. Navigate it with the left sidebar (the table of contents, built from
+`src/SUMMARY.md`), the search box, and the prev/next arrows. See
 [`docs/PUBLISHING.md`](docs/PUBLISHING.md) for how the site is built and deployed.
 
 ## Repository layout

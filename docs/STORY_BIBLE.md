@@ -108,7 +108,10 @@ begin.)*
 - Want and Need: TBD, but he is brave, decent, and good at this, the kind of man the reader
   roots for instantly.
 - Relationship to the system: a player, and unknown to himself the **furthest along of anyone**.
-  His high, fast score reads as triumph. It is ripeness. (See `MYSTERY.md`, Layer 6.)
+  He is **assessed for two years without ever knowing it**, and only at the very end of his
+  first chapter does the overlay surface and reveal that a count has been kept on him all along.
+  He has no time to understand it. His ledger already reads *rare*. The high score reads as
+  triumph. It is ripeness. (See `MYSTERY.md`, Layer 6.)
 - Arc: cut brutally short. That is the point. His death is a **harvest**, planted from Chapter 1.
 
 ### Protagonist B: Jonas Keller, the German, the **true throughline**

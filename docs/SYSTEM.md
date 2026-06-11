@@ -94,9 +94,16 @@ and the player's own understanding of their sheet grows with it. Each new capabi
 genre beat (the reader gets a new toy) and a rung on the mystery ladder (the new capability
 hints at what the thing wants). Rough progression, to be tuned in the drafting:
 
-- **Stage 0, raw (where Chapter 1 sits).** Involuntary. A pressure, then a few words at the edge
-  of sight, naming a handful of attributes. The player cannot summon it yet. He reads what it
-  shows him and reflects, but he is mostly a passenger. Basic on purpose.
+- **Stage minus one, hidden (most of Chapter 1).** The system has been assessing the player for
+  a long time *without his knowledge*. He feels none of it. His competence reads as his own,
+  hard-won and natural. The prose carries no system text at all. This is deliberate, so the
+  opening earns its world before it breaks it.
+- **Stage 0, first contact (the final beat of Chapter 1).** For the first time the overlay
+  surfaces, uninvited and unexplained. A pressure behind the eyes, then pale words about him,
+  his name in a ledger, a column of things he never told anyone. He grasps only that something
+  has been watching and writing him down all along. No time to reflect. The reader then sees his
+  first full sheet, attributes and skills, cold. Crucially his ledger already reads *rare*, he
+  was ripe before he knew the game existed.
 - **Stage 1, legible.** The attributes resolve into named, trackable lines (NERVE, CUNNING,
   ENDURANCE, INFLUENCE). The player can hold them in mind, compare against last time, notice
   growth. DISTANCE appears as a new line he did not ask for and does not understand.

@@ -46,6 +46,10 @@ These two rules are absolute. A draft that contains either mark is not finished.
 - **It is basic at first and gains functionality.** Early sheets are crude and short. New
   readouts, skills, notifications, and choices appear over the book (`docs/SYSTEM.md`, "The
   interface, and how it evolves"), and the character remarks on each as new.
+- **The discovery exception.** A player's introductory chapter may carry **no system text at
+  all** until a single first-contact beat at the very end, so the uncanny is earned and the
+  reveal lands hard. Chapter One does exactly this: pure grounded war, then the overlay surfaces
+  on the final page, then the reader gets the cold sheet.
 - Cold, administrative, slightly inhuman wording. Never chirpy gamer-speak.
 - **Load-bearing only.** Numbers appear when they sharpen the moment, the choice, or the dread.
   No stat-block dumps that stall the scene. If a readout is decorative, cut it.

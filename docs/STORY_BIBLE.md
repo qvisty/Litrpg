@@ -27,6 +27,7 @@ Full conventions live in `STYLE_GUIDE.md`.
 | **Speculative element** | A secret RPG-like "score" only a few people can see. No magic, no monsters. |
 | **System crunch** | Medium. Clear stats, skills and levels, but never at the cost of the story. |
 | **Tone** | Dark and realistic. The war's horror is taken seriously. Power-fantasy is kept on a leash. |
+| **Technical war layer** | Real military hardware and doctrine (armour, guns, aircraft, ballistics) are a genuine feature, for the war-tech reader. Accurate, dark, never gun-porn, always through an expert character's eye. It **couples to the system**: skills are technical mastery, and armour penetration resolves through the d20 throw. A penetration table and the ledger are the same cold arithmetic. See `WARCRAFT.md`. |
 | **Structure** | Multiple POV protagonists who each discover the system independently and slowly converge. |
 | **Cast size** | **Three** POV protagonists across the book, but only ever **two alive at once**, always one on each side, enemies from the start. The Allied killer replaces the dead Dane opposite the German. |
 | **The pairing** | **Across enemy lines.** An Allied/Danish player and a Wehrmacht (German) soldier, each only dimly aware the other exists. The most morally complex option, and it sharpens the "rewards humanity, not killing" core. |

@@ -113,6 +113,12 @@ Examples (provisional): *Demolitions, Field Medicine, Marksmanship, Cold Reading
 Survival, Command.* Skills have ranks. Ranks unlock subtle real-world competence, never
 super-powers.
 
+**Skills carry the technical war layer.** Many skills are genuine military mastery (Marksmanship
+and ballistics, Gunnery and Armour, Demolitions, wound ballistics inside Field Medicine), and
+the prose renders them with real specifics through the expert's eye. The hardware, and the way
+armour penetration resolves through the d20 throw, is designed in `WARCRAFT.md`. A penetration
+table and this ledger are the same cold arithmetic, which is the point.
+
 ## Leveling and "the cost"
 
 - XP is awarded for **meaningful action under stakes**. The system's verdict on what was

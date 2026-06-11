@@ -35,6 +35,7 @@ to `main`. Navigate it with the left sidebar (the table of contents, built from
 | `docs/STORY_BIBLE.md` | The master plan: premise, characters, the system, tone, continuity |
 | `docs/STYLE_GUIDE.md` | Prose, tense, POV and formatting conventions for consistency |
 | `docs/SYSTEM.md` | The rules of the hidden game system (stats, skills, costs) |
+| `docs/WARCRAFT.md` | The technical war layer (armour, guns, aircraft) and how it couples to the system |
 | `docs/PUBLISHING.md` | How to build locally and how the GitHub Pages deploy works |
 | `.github/workflows/deploy.yml` | CI that builds the book and publishes to GitHub Pages |
 

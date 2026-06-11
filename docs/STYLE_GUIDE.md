@@ -63,6 +63,18 @@ These two rules are absolute. A draft that contains either mark is not finished.
 - Keep Danish, German and Russian phrases italicized. Translate or gloss them in line when the
   meaning matters to the reader.
 
+## Technical war detail
+Real hardware (armour, guns, aircraft, ballistics, doctrine) is a feature for the war-tech
+reader. Full design and the materiel timeline live in `docs/WARCRAFT.md`. On the page:
+- **Accurate to the month and front.** Verify load-bearing facts before a chapter ships, and log
+  them in the war anchors table.
+- **Through an expert eye.** A sniper thinks in wind and drop, a tank man in ranges and angles.
+  The reader learns by standing behind a competent, frightened character, never from a manual.
+- **Dark, never gun-porn.** Keep the body in the machine. Bad news more often than good. A detail
+  that does not change a decision, the tension, or the meaning is cut.
+- **It couples to the system.** Skills are technical mastery, and a shot against armour resolves
+  through the throw. Evoke the cold penetration math so it rhymes with the ledger.
+
 ## Place names (anglicise for the reader)
 The story is set in real places, but the prose serves an English reader first and must never
 advertise the author's nationality. So:

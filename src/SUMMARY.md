@@ -7,6 +7,7 @@
 # Part One, The Score Begins
 
 - [Chapter One](./part-1/chapter-01.md)
+- [Chapter Two](./part-1/chapter-02.md)
 
 # Reader Appendix
 

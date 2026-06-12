@@ -8,6 +8,7 @@
 
 - [Chapter One](./part-1/chapter-01.md)
 - [Chapter Two](./part-1/chapter-02.md)
+- [Chapter Three](./part-1/chapter-03.md)
 
 # Reader Appendix
 
@@ -26,6 +27,7 @@
 # Editorial (working notes, to be deleted later)
 
 - [Chapter One, Editor's Edition](./editorial/chapter-01-annotated.md)
+- [Chapter Two, Editor's Edition](./editorial/chapter-02-annotated.md)
 - [Sample, the Technical Layer in Action](./editorial/sample-technical-excerpt.md)
 
 # About

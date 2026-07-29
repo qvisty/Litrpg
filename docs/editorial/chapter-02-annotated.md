@@ -45,10 +45,10 @@ thing gave him, and the fifth was what it took, and that it had been very carefu
 to make the taking feel like a gift.
 
 > **EDITOR, the thesis, spoken by a man who does not know he is right.** This is the cost
-> (Distance) rendered as the character's own private theory. He has worked out the literal truth
+> (the HOLLOW figure) rendered as the character's own private theory. He has worked out the literal truth
 > of the system, gift versus taking, without any idea what it means or where it leads. Dramatic
 > irony at full power. The reader who reaches Layer 6 will remember this roof. I keep the word
-> DISTANCE in the cold interface voice and let Aksel translate it into his own human image, a
+> HOLLOW in the cold interface voice and let Aksel translate it into his own human image, a
 > tide that only comes in, so the mechanic and the feeling are the same thing.
 
 "You will catch your death up here," Margit said ... She had lit his cigarette in the dark in the
@@ -122,7 +122,7 @@ terrible ease of his own hands.
 
 "We did a good thing tonight," Margit said softly ... "Yes," Aksel said, and waited to feel it, and
 felt the word rise instead.
-> DISTANCE: rising.
+> HOLLOW: deepening.
 
 > **EDITOR, the chapter's last turn of the screw.** He does a good thing, says so, and reaches for
 > the feeling, and the feeling is gone, replaced by the readout of its absence. This is the
@@ -134,7 +134,7 @@ felt the word rise instead.
 ```
 ASSESSED:  HOLT, AKSEL
     ... insight open, and opening
-    distance ▁▂▃ rising
+    hollow ▁▂▃ deepening
     ... knowing the road before the road
     standing among the assessed:  rare
     retained
@@ -142,7 +142,7 @@ ASSESSED:  HOLT, AKSEL
 ```
 
 > **EDITOR, the sheet, now maturing in form as well as content.** Three deliberate changes from
-> Chapter One's sheet. First, DISTANCE has appeared as its own line with a faint rising bar, the
+> Chapter One's sheet. First, HOLLOW has appeared as its own line with a faint deepening bar, the
 > medium itself gaining fidelity (Mode 0 words are starting to grow Mode 1 bars), which dramatises
 > the interface evolving. Second, a new skill, "knowing the road before the road," named the
 > moment he used it at the checkpoint, so the reader sees competence get recognised in real time.

@@ -20,6 +20,15 @@ the score.)*
 | **Influence** | Whether others move because you asked. |
 | **Insight** | Knowing a thing you were never told. |
 
+## Hollow
+
+Beside the five, the ledger keeps a figure it calls **hollow**, and unlike the five it never
+reads as praise. The assessed understand it imperfectly and fear it exactly: it is the measure of
+what the keeping of the score costs. Hands that stop shaking. Grief that arrives from further
+away each month. A good deed done, and nothing felt where the feeling should be. The five are
+what the thing gives. The hollow, the assessed suspect, is what it takes, and the figure never
+goes down.
+
 ## Favour
 
 The ledger keeps one more line, set apart from the rest, and it does not call it luck. It calls

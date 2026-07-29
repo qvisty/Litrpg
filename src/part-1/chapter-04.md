@@ -129,7 +129,7 @@ ASSESSED:  HOLT, AKSEL
     influence    survives him
     insight      closed
 
-    distance     no longer applicable
+    hollow       no longer applicable
 
     recognised in him:
         demolitions

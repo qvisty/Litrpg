@@ -31,9 +31,10 @@ roster, he was the sum of the boys who still had their legs. He clung to it the 
 to the thing that is also dragging them down. He had noticed, the way you notice a tooth going bad,
 that the more he leaned on it the less he felt at the cot-side, that the grief that should have flooded
 him at the ones he lost now came from somewhere further off each month, a sea heard through a wall. He
-had a word for the others, the four that sharpened him. He had no word for that fifth, receding thing,
-and he tried not to look at it, because a healer who cannot feel is just a clean pair of hands, and a
-clean pair of hands will do anything it is told.
+had words of his own for the four that sharpened him. For the fifth thing there was only the ledger's
+word. HOLLOW, it said, and beside the word it kept a figure, the way a pharmacist keeps the level in a
+jar, and the figure never went down. He tried not to look at it, because a healer who cannot feel is
+just a clean pair of hands, and a clean pair of hands will do anything it is told.
 
 The trucks came at the end of the week, in the rain, after the curfew bell.
 
@@ -87,7 +88,7 @@ ASSESSED:  KELLER, JONAS
     influence    trusted at the cot-side
     insight      wide open
 
-    distance     ▁▂▃▄ rising, and he knows it
+    hollow       ▁▂▃▄ deepening, and he knows it
 
     recognised in him:
         field medicine

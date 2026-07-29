@@ -18,14 +18,19 @@ himself be ashamed of being good at the work. A man should be good at saving peo
 
 It was the fifth that he sat on the roof about.
 
-> DISTANCE.
+> HOLLOW.
 
-That was all it ever said of it, the one word, and a sense of a tide that only came in. It had
-surfaced a month before the shop and it had not stopped, and unlike the others it gave him nothing
-back when it rose, no steadiness, no edge, only the word and the cold. He had a theory now, sitting
-in the wet grey light over the rooftops of a city that belonged to other men. The theory was that
-the four were what the thing gave him, and the fifth was what it took, and that it had been very
-careful, for two years, to make the taking feel like a gift.
+That was all it ever said of it, the one word, and a figure beside it that only ever grew. Hollow
+where, it did not say. Hollow of what, it did not say. But he knew. He could measure it himself, in
+the mornings, in the steadiness of his own hands, in how far away the fear stood now, and the
+grief, and the gladness, all of them across a widening water. Something was being emptied out of
+him, quietly, a little with every job, and the letters were not warning him of it. They were
+keeping the figure, the way a man marks the level in a bottle. It had surfaced a month before the
+shop and it had not stopped, and unlike the others it gave him nothing back when it deepened, no
+steadiness, no edge, only the word and the cold. He had a theory now, sitting in the wet grey light
+over the rooftops of a city that belonged to other men. The theory was that the four were what the
+thing gave him, and the fifth was what it took, and that it had been very careful, for two years,
+to make the taking feel like a gift.
 
 "You will catch your death up here," Margit said, and sat down beside him on the cold lead, and put
 her shoulder against his, and he came back into his body a little.
@@ -104,7 +109,7 @@ be. He told himself it was exhaustion. He told himself a man got used to anythin
 
 "Yes," Aksel said, and waited to feel it, and felt the word rise instead.
 
-> DISTANCE: rising.
+> HOLLOW: deepening.
 
 ---
 
@@ -117,7 +122,7 @@ ASSESSED:  HOLT, AKSEL
     influence    quiet, and felt
     insight      open, and opening
 
-    distance     ▁▂▃ rising
+    hollow       ▁▂▃ deepening
 
     recognised in him:
         demolitions

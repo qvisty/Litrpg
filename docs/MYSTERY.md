@@ -79,7 +79,7 @@ book. Plant the seed for each rung before the rung above it is even revealed.
 - **What they believe:** the system is benevolent, or at least neutral. It rewards mercy. That
   must mean it is on the side of the good.
 - **The truth at this rung:** the reward IS the consumption. Every level is the system taking a
-  measured portion of the self, refining it. The "Distance" a player feels is not a side effect.
+  measured portion of the self, refining it. The HOLLOW figure a player watches is not a side effect.
   It is the hollow where the harvested humanity used to be. Score high enough, become pure
   enough, and you are taken completely. **The Dane did not die at random. He was the furthest
   along of all of them, and he was harvested.** His sudden, meaningless death was a completion.
@@ -176,7 +176,7 @@ he was eaten first.
    Never the warm words a benevolent system would use.
 2. **The Dane scoring high and fast,** treated as triumph, with one cold note that does not fit.
 3. **The wink-out,** the German feeling something taken at the instant of a stranger's death.
-4. **Distance shown as real cost early,** a player noticing he feels less than he should at a
+4. **The hollow shown as real cost early,** a player noticing he feels less than he should at a
    thing that ought to wreck him, and being unsettled by his own calm.
 5. **The benevolence lie stated plainly,** someone saying out loud that a thing that rewards
    mercy must be good, so the Layer 6 reversal has something to break.
@@ -207,10 +207,11 @@ he was eaten first.
   rises and the harvest turns toward him. To become a better man is to be eaten. His surname
   carries the buried word *mercy* on purpose.
 - **Mercer is a sniper by specialisation, and that choice is load-bearing.** A sniper's craft is
-  literally *distance*, and Distance is the system's name for the hollowing of a person. Mercer
-  is the man who is all distance, behind the glass, and so the harvest cannot reach him. His arc
-  toward mercy is mechanically an arc toward *closing the distance*, lowering Distance, becoming
-  human, becoming ripe. The thing that makes him a monster is the thing that keeps him alive.
+  literally *distance*, and the ledger's price is named HOLLOW, the hollowing of a person. A man
+  who is all distance stays hollow, so Mercer begins where the harvest ends, behind the glass,
+  already emptied, nothing left to take. His arc toward mercy is mechanically an arc toward
+  *closing the distance*, filling in, becoming human, becoming ripe. The thing that makes him a
+  monster is the thing that keeps him alive.
 
 ### Still open
 - **The third way** out of the Layer 7 trap. Designed once the middle is real.

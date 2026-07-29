@@ -8,7 +8,7 @@ scaffolding only. They are not part of the book and will be deleted. The clean c
 > **EDITOR, the strategy of this chapter in one breath.** Three jobs, in order of priority.
 > First, make the reader love Aksel as the hero, so his early death is a real wound. Second, do
 > it with zero system text, so the war feels true and the speculative turn is earned. Third,
-> plant the seeds of the whole secret machine (harvest, Distance, favour, the Steward) inside
+> plant the seeds of the whole secret machine (harvest, the hollow, favour, the Steward) inside
 > ordinary, grounded detail, so they pay off on a reread without anyone noticing them on the
 > first. The misdirection only works if the chapter reads as a straight, excellent resistance
 > story right up to the last page.
@@ -98,7 +98,7 @@ nights he believed it.
 
 > **EDITOR, the chapter's central trap.** Read this passage twice. On the surface it is a moving
 > portrait of a man hardened by war, his hands no longer shaking, and he calls it courage. The
-> truth we have designed is that the steadiness is Distance, the system's cost, the slow
+> truth we have designed is that the steadiness is the hollow, the system's cost, the slow
 > hollowing of his humanity. He is misreading his own damage as growth. "He told himself that
 > was courage" is the exact shape of the benevolence lie at the scale of one man. The reader
 > will not catch it now. On a reread it is unbearable. Note that I never let the narrator

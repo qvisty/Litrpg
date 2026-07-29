@@ -40,7 +40,7 @@ right to know (see `src/appendix-system.md` for the spoiler-safe, in-story versi
    leadership, and mercy, all choices, not kill-counts. Killing earns little or nothing.
 7. **It costs something.** The more a player leans on the system, the more detached from their
    own humanity they feel. Power and numbness rise together. The players can *see* this cost
-   (Distance) climbing, and can do nothing to stop it, which is its own slow horror.
+   (the HOLLOW figure) deepening, and can do nothing to stop it, which is its own slow horror.
 8. **Grounded.** No fireballs. Bonuses read as being *slightly* faster, steadier, luckier, or
    more persuasive than a human should be. Deniable, uncanny, never cinematic magic.
 
@@ -123,10 +123,12 @@ table and this ledger are the same cold arithmetic, which is the point.
 
 - XP is awarded for **meaningful action under stakes**. The system's verdict on what was
   "meaningful" is itself a small, recurring mystery. It rewards mercy oddly often.
-- Each level grants attribute and skill growth **and** deepens the detachment. Mechanically we
-  may model this as a rising **Distance** value. High Distance means sharper performance and
+- Each level grants attribute and skill growth **and** deepens the detachment. Mechanically this
+  is the **HOLLOW** figure, the ledger's own name for the cost (renamed from the earlier working
+  name Distance). The hollow only ever deepens. A deep hollow means sharper performance and
   duller feeling. A core tragedy: the better you get, the less you feel the thing you are
-  fighting for.
+  fighting for. On the page it reads as hands that stop shaking, grief heard through a wall, a
+  good deed done and nothing felt.
 
 ### The healer and the killer
 
@@ -160,7 +162,7 @@ hints at what the thing wants). Rough progression, to be tuned in the drafting:
   was ripe before he knew the game existed.
 - **Stage 1, legible.** The attributes resolve into named, trackable lines (NERVE, CUNNING,
   ENDURANCE, INFLUENCE). The player can hold them in mind, compare against last time, notice
-  growth. DISTANCE appears as a new line he did not ask for and does not understand.
+  growth. HOLLOW appears as a new line he did not ask for and does not understand.
 - **Stage 2, summonable and skilled.** He learns he can *look* on purpose. SKILLS get named as
   the system recognises a competence. He starts to experiment, doing things to push a number,
   and the book lets the reader enjoy that.
@@ -175,7 +177,7 @@ hints at what the thing wants). Rough progression, to be tuned in the drafting:
   language, COMPLETION, YIELD. The toy was a record of livestock all along.
 
 Players also develop **private vocabulary and theory.** They name the stats themselves before
-the system does, argue about what raises Distance, and trade folk rules when two of them meet.
+the system does, argue about what deepens the hollow, and trade folk rules when two of them meet.
 This is realistic, it is fun, and it lets characters be wrong in ways that foreshadow the truth.
 
 ## How the system lives in the prose
@@ -208,7 +210,7 @@ and how it evolves") and the bars-to-numbers progression:
 - **Mode 1, styled ledger.** Real HTML and CSS. A cold "ledger" card with proper bars, ruled
   lines, the look of a document kept by an institution that does not love you. (Scaffolded in
   `css/ledger.css`, wired through `book.toml`.)
-- **Mode 2, numbers and depth.** Figures appear (Nerve 7, Distance 4), more lines, favour shown
+- **Mode 2, numbers and depth.** Figures appear (Nerve 7, Hollow 4), more lines, favour shown
   as a die. The sheet is now legible and the reader can do the arithmetic of dread.
 - **Mode 3 and beyond, living.** SVG and light animation at key beats, a bar filling, a die
   settling, the throw resolving on screen. Possibly imagery or sound on the web. Reserved for

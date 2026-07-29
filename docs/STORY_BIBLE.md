@@ -32,7 +32,7 @@ Full conventions live in `STYLE_GUIDE.md`.
 | **Cast size** | **Three** POV protagonists across the book, but only ever **two alive at once**, always one on each side, enemies from the start. The Allied killer replaces the dead Dane opposite the German. |
 | **The pairing** | **Across enemy lines.** An Allied/Danish player and a Wehrmacht (German) soldier, each only dimly aware the other exists. The most morally complex option, and it sharpens the "rewards humanity, not killing" core. |
 | **The German's job** | A **medic, or Sanitäter (field medical orderly), or field doctor**, a *healer*. His ethical engine: the war forces this life-saver into *necessary killing*, which the system answers wrongly and coldly. (Doctor versus front-line Sanitäter still TBD.) |
-| **The third protagonist** | A **hardened Allied killer**, the morally darkest of the three, who steps in after the Dane dies. **Specialisation: sniper.** The direct mirror and inversion of the German healer, the killer against the healer. A sniper's trade is *distance*, which is also the system's name for the loss of humanity, so he begins already hollow and therefore safe. |
+| **The third protagonist** | A **hardened Allied killer**, the morally darkest of the three, who steps in after the Dane dies. **Specialisation: sniper.** The direct mirror and inversion of the German healer, the killer against the healer. A sniper's trade is *distance*, and the ledger's price is named *hollow*, so the man who is all distance begins already hollow and therefore safe. |
 | **The killer is also a player** | Yes. The healer and the killer are **two players on opposite sides**, drawn inevitably toward each other. They may be the only two people alive who can understand each other's curse, and still they are enemies. This is the engine of the convergence mystery. |
 | **The gut-punch** | **One of the two opening POV protagonists actually dies partway through**, a deliberate, rare move. The death is the doorway into the larger mystery. |
 | **Who dies** | **The Dane (the Allied protagonist).** The bold misdirection: the reader is led to believe the Dane is *the* hero (most page-time, classic hero's arc), then he dies, and the **German** turns out to be the true throughline all along. It flips the reader's sympathy onto "the enemy." |
@@ -126,7 +126,7 @@ begin.)*
   it subtle. It is a common German name and never remarked on in the text.
 - **Core dilemma:** his whole identity is saving lives, yet the war forces him into *necessary
   killing*. Each kill wounds him, and the system's response to it is wrong and cold, which
-  deepens the horror. The "Distance" cost is doubly cruel on a man made of care. The better he
+  deepens the horror. The HOLLOW cost is doubly cruel on a man made of care. The better he
   gets, the number he grows to the compassion he is fighting to keep. He is the perfect
   specimen, being fattened (Layer 6).
 - Want, Need, Arc: TBD.
@@ -140,11 +140,12 @@ begin.)*
 - **Specialisation: sniper.** This is his whole craft and his whole identity. He kills at
   distance, never close, the target an object in a lens, no eye met, no name known. He is good
   at it the way Aksel was good at the resistance, the best anyone has seen.
-- **The distance resonance (core to his design):** a sniper's trade *is* distance, and the
-  system's price is named **Distance**, the loss of one's own humanity. So Mercer begins
-  already hollowed out, maximally detached, and that is exactly why the harvest cannot touch
-  him. His arc toward mercy is an arc toward *closing the distance*, becoming human again, and
-  so becoming ripe. The safest man alive, for as long as he stays behind the glass.
+- **The hollow resonance (core to his design):** a sniper's trade *is* distance, and the
+  ledger's price is named **HOLLOW**, the emptying of a person. A man who is all distance stays
+  hollow, so Mercer begins already emptied, maximally detached, and that is exactly why the
+  harvest cannot touch him. His arc toward mercy is an arc toward *closing the distance*,
+  filling in, becoming human again, and so becoming ripe. The safest man alive, for as long as
+  he stays behind the glass.
 - **Function:** the direct mirror and inversion of the German healer. The killer who must learn
   to spare or to save, and whose growth toward mercy is also his road to the harvest.
 - **Name note:** *Mercer* buries the word *mercy*, the thing that will both save and doom him.
@@ -196,7 +197,7 @@ each protagonist's current stats and skills.
 - **Ch. 2 (Aksel):** he can now summon the readings. Names his theory (four gifts, a fifth
   taken). Margit established, the counting, the cigarette. Checkpoint warning in-scene. Favour
   clarified in his own words, luck with a hand behind it, grantable and withdrawable. Sheet
-  gains DISTANCE bar, new skill "knowing the road before the road", favour "heavy with him".
+  gains HOLLOW bar, new skill "knowing the road before the road", favour "heavy with him".
 - **Ch. 3 (Jonas, same city, same October):** Sanitäter in a dance-hall aid post. Three years of
   medical study, Freiburg. Needs the ledger as proof of goodness. The round-up, the ledger's
   silence for swallowed mercy. First sense of another player (north and east, toward the water)

@@ -9,6 +9,7 @@
 - [Chapter One](./part-1/chapter-01.md)
 - [Chapter Two](./part-1/chapter-02.md)
 - [Chapter Three](./part-1/chapter-03.md)
+- [Chapter Four](./part-1/chapter-04.md)
 
 # Reader Appendix
 

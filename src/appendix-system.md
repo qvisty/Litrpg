@@ -23,8 +23,11 @@ the score.)*
 ## Favour
 
 The ledger keeps one more line, set apart from the rest, and it does not call it luck. It calls
-it **favour**. What it is, and why a cold accountant should care to grant it, the assessed do not
-yet understand.
+it **favour**. What the assessed have worked out so far is only this: the road is kinder to the
+favoured. Checkpoints wave them past. Shots that should find them do not. Luck is what you call
+it when no one is doing it. Favour is luck with a hand behind it, and a thing that is granted can
+be withdrawn. Why a cold accountant should trouble to keep anyone lucky, none of them can say,
+and the wisest of them are uneasy that it does.
 
 *(Provisional. See the story bible. This page grows only as much as the characters come to
 understand. Numbers and exact wording are finalized as chapters are written.)*

@@ -80,16 +80,21 @@ perfectly steady, and the letters surfaced, quiet now, almost kind.
 > Cleanly done.
 > Favour: with him.
 
-He did not know what the second line meant and he did not like it. It had the shape of a thing being
-said about him by someone he could not see, in a room he was not allowed into. But the boat took the
-Arnsteins and the cantor and the two borrowed children off the dark shingle two hours later, and
-Aksel stood in the freezing shallows again with the sea filling his boots, and watched another small
-piece of the dark detach itself and carry eight people toward a country that would let them live, and
-he decided, the way a tired man decides, that a thing which arranged such nights could not be his
-enemy. It rewarded the saving of children. What rewards the saving of children is good. He held the
-thought the way he held all the others, close, and did not look at it too hard, because if he looked
-too hard he could feel, underneath it, the cold tide coming in, and the terrible ease of his own
-hands.
+He did not know what the second line meant and he did not like it. It had the shape of a thing
+being said about him by someone he could not see, in a room he was not allowed into. Margit would
+have called tonight luck, the new checkpoint waved past, the torch that never walked the forty
+steps, and he turned the word over all the way to the coast and could not make it mean anything so
+clean. Luck was what you called it when no one was doing it. Favour was luck with a hand behind
+it. Favour was granted, which meant favour could be withdrawn, and it was the kind of gift, he
+thought, remembering the pale column of his own life in the shop, that came from someone who kept
+accounts. But the boat took the Arnsteins and the cantor and the two borrowed children off the dark
+shingle two hours later, and Aksel stood in the freezing shallows again with the sea filling his
+boots, and watched another small piece of the dark detach itself and carry eight people toward a
+country that would let them live, and he decided, the way a tired man decides, that a thing which
+arranged such nights could not be his enemy. It rewarded the saving of children. What rewards the
+saving of children is good. He held the thought the way he held all the others, close, and did not
+look at it too hard, because if he looked too hard he could feel, underneath it, the cold tide
+coming in, and the terrible ease of his own hands.
 
 On the way back, empty, Margit drove and he watched the fields go by and felt the thing he had begun
 to feel after every job now, which was almost nothing. A clean grey calm where the shaking used to

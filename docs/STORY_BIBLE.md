@@ -188,4 +188,22 @@ short and brutal, and the true shape of the book reveals itself only once he is 
 ## Continuity ledger
 
 Track anything that must stay consistent: names, dates, who knows what about the system, and
-each protagonist's current stats and skills. *(Empty until drafting begins.)*
+each protagonist's current stats and skills.
+
+- **Ch. 1 (Aksel, Copenhagen, Oct 1943):** two years assessed unknowing. First contact at the
+  shop on Borger Street. The Steward's first cameo (the cold does not touch him). Sheet: Mode 0,
+  words only, favour "with him".
+- **Ch. 2 (Aksel):** he can now summon the readings. Names his theory (four gifts, a fifth
+  taken). Margit established, the counting, the cigarette. Checkpoint warning in-scene. Favour
+  clarified in his own words, luck with a hand behind it, grantable and withdrawable. Sheet
+  gains DISTANCE bar, new skill "knowing the road before the road", favour "heavy with him".
+- **Ch. 3 (Jonas, same city, same October):** Sanitäter in a dance-hall aid post. Three years of
+  medical study, Freiburg. Needs the ledger as proof of goodness. The round-up, the ledger's
+  silence for swallowed mercy. First sense of another player (north and east, toward the water)
+  and the warning "do not go looking". Sheet: standing "of interest", favour "present".
+- **Ch. 4 (the harvest):** **Aksel dies.** A nothing errand (wireless valve in a sock), a new
+  snap control, a startled nineteen-year-old, a tram flange. First appearance of THE THROW.
+  Favour "Withheld". Final notifications: REFINED, standing "first", "Ready", then COMPLETION,
+  "yield accepted, in full, with thanks". The Steward feeding gulls by the canal, unremarked.
+  Jonas feels the wink-out at the exact moment, is advanced a rung, and discovers he cannot
+  weep. Margit survives. Holger's wireless still dumb, the valve undelivered.
